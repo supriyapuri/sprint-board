@@ -1,38 +1,69 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  h2 {
+    text-align: center;
   }
-  to {
-    transform: rotate(360deg);
-  }
+  h3{text-align: center;}
+
+
+a{
+  text-decoration: none !important;
+  color: black;
+  font-weight: 300;
+  font-style: italic;
+
 }
+
+  button{
+    position: inherit;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: Transparent;
+    text-color: black;
+    cursor:pointer;
+    overflow: hidden;
+  }
+
+  
+  .board{
+    border: 1px gray solid;
+    box-shadow: 5px 5px 5px black;
+    display: grid;
+    grid-template-columns : repeat(3, 1fr);
+  }
+ 
+  .each-list{
+    box-shadow: 5px 5px 5px grey;
+    gap: 10px;
+    padding: 10px; 
+    margin: 20px;
+    /* border: 2px gray solid; */
+    display: grid;
+    grid-template-rows : 12% 88%;
+
+    
+  }
+  
+ 
+  .task{
+     
+    /* border: 1.5px black solid; */
+    box-shadow: 5px 5px 5px rgb(17, 17, 17);
+    text-align: left;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 4%;
+  }
+
+  .material-icons{
+    color:red;
+    float: left;
+    height: 100%;
+  }
+  
