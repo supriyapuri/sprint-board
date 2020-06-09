@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sprint-board/precache-manifest.80ecba9dcbb85f2e796faa74283417e4.js"
+  "/sprint-board/precache-manifest.f6c70f77acb3fe3505df24bd7b706ae2.js"
 );
 
 self.addEventListener('message', (event) => {

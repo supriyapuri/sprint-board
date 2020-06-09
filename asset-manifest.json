@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sprint-board/static/css/main.c5d4be17.chunk.css",
-    "main.js": "/sprint-board/static/js/main.35743a77.chunk.js",
-    "main.js.map": "/sprint-board/static/js/main.35743a77.chunk.js.map",
+    "main.js": "/sprint-board/static/js/main.e915dc1b.chunk.js",
+    "main.js.map": "/sprint-board/static/js/main.e915dc1b.chunk.js.map",
     "runtime-main.js": "/sprint-board/static/js/runtime-main.44a3d6ce.js",
     "runtime-main.js.map": "/sprint-board/static/js/runtime-main.44a3d6ce.js.map",
     "static/js/2.7d343e92.chunk.js": "/sprint-board/static/js/2.7d343e92.chunk.js",
     "static/js/2.7d343e92.chunk.js.map": "/sprint-board/static/js/2.7d343e92.chunk.js.map",
     "index.html": "/sprint-board/index.html",
-    "precache-manifest.80ecba9dcbb85f2e796faa74283417e4.js": "/sprint-board/precache-manifest.80ecba9dcbb85f2e796faa74283417e4.js",
+    "precache-manifest.f6c70f77acb3fe3505df24bd7b706ae2.js": "/sprint-board/precache-manifest.f6c70f77acb3fe3505df24bd7b706ae2.js",
     "service-worker.js": "/sprint-board/service-worker.js",
     "static/css/main.c5d4be17.chunk.css.map": "/sprint-board/static/css/main.c5d4be17.chunk.css.map",
     "static/js/2.7d343e92.chunk.js.LICENSE.txt": "/sprint-board/static/js/2.7d343e92.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.44a3d6ce.js",
     "static/js/2.7d343e92.chunk.js",
     "static/css/main.c5d4be17.chunk.css",
-    "static/js/main.35743a77.chunk.js"
+    "static/js/main.e915dc1b.chunk.js"
   ]
 }
