@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26f3a5c7d58053f458c99f9987e5d385",
+    "revision": "3192e5f5ffa1e4936e0d2602e0b9267e",
     "url": "/sprint-board/index.html"
   },
   {
-    "revision": "c02aa8ef1714d43a6b19",
+    "revision": "159f1cba3d95815f901e",
     "url": "/sprint-board/static/css/main.c5d4be17.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sprint-board/static/js/2.7d343e92.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c02aa8ef1714d43a6b19",
-    "url": "/sprint-board/static/js/main.7206b97a.chunk.js"
+    "revision": "159f1cba3d95815f901e",
+    "url": "/sprint-board/static/js/main.f43ecf70.chunk.js"
   },
   {
     "revision": "519bdb7b2a9d09e15916",
