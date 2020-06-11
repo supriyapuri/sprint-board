@@ -8,17 +8,12 @@ export default class Home extends React.Component {
 
     uiConfig = {
         signInFlow:'popup',
-        signInSuccessUrl:'/board',
+        signInSuccessUrl:'#/board',
         signInOptions:[
             firebase.auth.EmailAuthProvider.PROVIDER_ID,
             firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-        ],
-    //     callbacks:{
-    //         signInSuccessWithAuthResult:()=>{
-    //             this.props.history.push('/board')
-    //         }
-    //     }
-    
+        ]
+
     }
     
 
@@ -26,8 +21,8 @@ export default class Home extends React.Component {
     render() {
         return (
             <div>
-                <h1>Home</h1>
-                <p>sign in:</p>
+                <h3>Welcome to the Sprint-Board. Please sign-in to continue.</h3>
+                <p style= {{color: "white"}}>sign in:</p>
                 <StyledFirebaseAuth
                 uiConfig={this.uiConfig}
                 firebaseAuth= {firebase.auth()}/>
