@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sprint-board/static/css/main.aecd479d.chunk.css",
-    "main.js": "/sprint-board/static/js/main.ddab1ebf.chunk.js",
-    "main.js.map": "/sprint-board/static/js/main.ddab1ebf.chunk.js.map",
+    "main.css": "/sprint-board/static/css/main.60e5f3d5.chunk.css",
+    "main.js": "/sprint-board/static/js/main.956e1b51.chunk.js",
+    "main.js.map": "/sprint-board/static/js/main.956e1b51.chunk.js.map",
     "runtime-main.js": "/sprint-board/static/js/runtime-main.44a3d6ce.js",
     "runtime-main.js.map": "/sprint-board/static/js/runtime-main.44a3d6ce.js.map",
     "static/js/2.5cd2cc82.chunk.js": "/sprint-board/static/js/2.5cd2cc82.chunk.js",
     "static/js/2.5cd2cc82.chunk.js.map": "/sprint-board/static/js/2.5cd2cc82.chunk.js.map",
     "index.html": "/sprint-board/index.html",
-    "precache-manifest.29067f20f8dded0cdb17eec3d3661841.js": "/sprint-board/precache-manifest.29067f20f8dded0cdb17eec3d3661841.js",
+    "precache-manifest.402cb6d5eb1c5275d6a2b6cdb20aed31.js": "/sprint-board/precache-manifest.402cb6d5eb1c5275d6a2b6cdb20aed31.js",
     "service-worker.js": "/sprint-board/service-worker.js",
-    "static/css/main.aecd479d.chunk.css.map": "/sprint-board/static/css/main.aecd479d.chunk.css.map",
+    "static/css/main.60e5f3d5.chunk.css.map": "/sprint-board/static/css/main.60e5f3d5.chunk.css.map",
     "static/js/2.5cd2cc82.chunk.js.LICENSE.txt": "/sprint-board/static/js/2.5cd2cc82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44a3d6ce.js",
     "static/js/2.5cd2cc82.chunk.js",
-    "static/css/main.aecd479d.chunk.css",
-    "static/js/main.ddab1ebf.chunk.js"
+    "static/css/main.60e5f3d5.chunk.css",
+    "static/js/main.956e1b51.chunk.js"
   ]
 }
