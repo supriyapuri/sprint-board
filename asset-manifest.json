@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sprint-board/static/css/main.adbf069f.chunk.css",
-    "main.js": "/sprint-board/static/js/main.13d8b50c.chunk.js",
-    "main.js.map": "/sprint-board/static/js/main.13d8b50c.chunk.js.map",
+    "main.css": "/sprint-board/static/css/main.a3038141.chunk.css",
+    "main.js": "/sprint-board/static/js/main.19fcde5c.chunk.js",
+    "main.js.map": "/sprint-board/static/js/main.19fcde5c.chunk.js.map",
     "runtime-main.js": "/sprint-board/static/js/runtime-main.44a3d6ce.js",
     "runtime-main.js.map": "/sprint-board/static/js/runtime-main.44a3d6ce.js.map",
     "static/js/2.5cd2cc82.chunk.js": "/sprint-board/static/js/2.5cd2cc82.chunk.js",
     "static/js/2.5cd2cc82.chunk.js.map": "/sprint-board/static/js/2.5cd2cc82.chunk.js.map",
     "index.html": "/sprint-board/index.html",
-    "precache-manifest.4a2f829e0e9b42ddbdec04e1bc9b9db8.js": "/sprint-board/precache-manifest.4a2f829e0e9b42ddbdec04e1bc9b9db8.js",
+    "precache-manifest.a91ec2fa7fa0d08373ad4a4b545fa388.js": "/sprint-board/precache-manifest.a91ec2fa7fa0d08373ad4a4b545fa388.js",
     "service-worker.js": "/sprint-board/service-worker.js",
-    "static/css/main.adbf069f.chunk.css.map": "/sprint-board/static/css/main.adbf069f.chunk.css.map",
+    "static/css/main.a3038141.chunk.css.map": "/sprint-board/static/css/main.a3038141.chunk.css.map",
     "static/js/2.5cd2cc82.chunk.js.LICENSE.txt": "/sprint-board/static/js/2.5cd2cc82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44a3d6ce.js",
     "static/js/2.5cd2cc82.chunk.js",
-    "static/css/main.adbf069f.chunk.css",
-    "static/js/main.13d8b50c.chunk.js"
+    "static/css/main.a3038141.chunk.css",
+    "static/js/main.19fcde5c.chunk.js"
   ]
 }
