@@ -26,6 +26,21 @@ The Sprint Board can help visualize work, limit work-in-progress and achieve max
 
 
 **Tasks**
+1. A login page to be created using `Firebase Authentication`.
+2. The task page will display three different components for the tasks monitored:
+    - To-do
+    - In-progress
+    - Complete
+3. Each Task card will have the `Title` and the `Category or the Department` related to it. 
+4. `Add Task Card ` functionality needs to be included to add new assignments.
+5. Each Task Card needs to include a `drag and drop` functionality for the users to update assignment status. 
+6. The completed tasks need to have a check box ticked. 
+7. The webpage must store the tasks added using Firebase Database. 
+8. The application is deployed and functional. 
+
+**nice to have**
+
+Add a filter to sort task according to the category or department it is related to. 
 
 
 
